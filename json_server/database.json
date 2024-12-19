@@ -1,0 +1,56 @@
+{
+  "author": [
+    {
+      "id": "1",
+      "name": "Lev Tolstoy"
+    },
+    {
+      "id": "2",
+      "name": "Fyodor Dostoevsky"
+    },
+    {
+      "id": "3",
+      "name": "Jane Austen"
+    }
+  ],
+  "book": [
+    {
+      "id": "1",
+      "title": "War and Peace",
+      "authorId": 1,
+      "libraryId": 1
+    },
+    {
+      "id": "2",
+      "title": "Anna Karenina",
+      "authorId": 1,
+      "libraryId": 2
+    },
+    {
+      "id": "3",
+      "title": "Crime and Punishment",
+      "authorId": 2,
+      "libraryId": 1
+    },
+    {
+      "id": "4",
+      "title": "Pride and Prejudice",
+      "authorId": 3,
+      "libraryId": 3
+    }
+  ],
+  "library": [
+    {
+      "id": "1",
+      "name": "Central Library"
+    },
+    {
+      "id": "2",
+      "name": "City Library"
+    },
+    {
+      "id": "3",
+      "name": "Community Library"
+    }
+  ]
+}
